@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "deno-slack-sdk/": "https://raw.githubusercontent.com/slackapi/deno-slack-sdk/a562481f4edaee4bef11c5974375f0280852dc15/src/",
+    "deno-slack-api/": "https://deno.land/x/deno_slack_api@0.0.8/"
+  }
+}
